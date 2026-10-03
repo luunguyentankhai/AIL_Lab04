@@ -1,0 +1,9 @@
+scikit-learn
+matplotlib
+numpy
+pandas
+streamlit
+gradio
+seaborn
+requests
+ipykernel
